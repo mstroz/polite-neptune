@@ -11,7 +11,7 @@ fields:
 - type: text
   name: baseurl
   label: Base URL
-  description: Serve the website from the given base URL
+  description: hServe the website from the given base path
   hidden: false
 - type: text
   name: permalink
