@@ -1,6 +1,6 @@
 ---
 title: 3687.us
-baseurl: "/"
+baseurl: ''
 permalink: "/:title/"
 palette: blue
 header:
