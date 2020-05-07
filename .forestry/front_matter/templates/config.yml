@@ -12,7 +12,7 @@ fields:
   name: baseurl
   label: Base URL
   description: hServe the website from the given base path
-  hidden: false
+  hidden: true
 - type: text
   name: permalink
   label: Permalink
