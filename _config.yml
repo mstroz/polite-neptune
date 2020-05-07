@@ -5,11 +5,11 @@ permalink: "/:title/"
 palette: blue
 header:
   title: "3687"
-  tagline: Tagline
+  tagline: 3687Tagline
   logo_img: images/logo.png
   bg_img: images/header-bg.jpg
   has_nav: true
-  has_social: true
+  has_social: false
 footer:
   content: "&copy; All rights reserved."
   links:
